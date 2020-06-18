@@ -13,6 +13,8 @@ class Config(object):
       config_string_entries = json.loads(update_config_string, object_pairs_hook=OrderedDict)
       print("Updating given config with dict", config_string_entries)
       self._entries.update(config_string_entries)
+    # print(self._entries)
+    # input()
 
   def has(self, key):
     return key in self._entries

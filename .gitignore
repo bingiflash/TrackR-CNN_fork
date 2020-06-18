@@ -2,6 +2,8 @@ forwarded
 models
 summaries
 logs
+data
 slurm*.out
 __pycache__
 .idea
+.vscode
