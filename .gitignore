@@ -20,7 +20,7 @@ data/KITTI_MOTS/train/images/0017
 data/KITTI_MOTS/train/images/0018
 data/KITTI_MOTS/train/images/0019
 data/KITTI_MOTS/train/images/0020
-data/KITTI_MOTS/train/images/MOT
+#data/KITTI_MOTS/train/images/MOT
 data/KITTI_MOTS/train/instances/0003
 data/KITTI_MOTS/train/instances/0004
 data/KITTI_MOTS/train/instances/0005
